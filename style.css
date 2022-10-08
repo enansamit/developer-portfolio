@@ -11,8 +11,9 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible-container {
     display: flex;
+    margin-bottom: 200px;
 }
 
 .half-width {
@@ -65,4 +66,8 @@ section {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.experience-h3 {
+    color: goldenrod;
 }
